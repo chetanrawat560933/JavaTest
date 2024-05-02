@@ -6,7 +6,7 @@ Added another line
 
 
 New line
-git
+
 Another New Line
 
 
